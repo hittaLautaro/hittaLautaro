@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="left"><b> :rocket:	 I'm Lautaro Hitta 	</b></h1>
 
-<!--
-**hittaLautaro/hittaLautaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>  :coffee: About me </h2>
 
-Here are some ideas to get you started:
+I am a Software Developer, close to reaching my pre-degree. I am pursuing experience with projects involving robust, secure and scalable software with Java & Spring as my main stack. I've developed projects including the use of Spring JPA, Spring Security, JWT, Scheduling, Emails and OAuth.
+<!--  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">	:dart: My Skills </h2>
+
+<div align="center">
+
+  <h4> Back End </h4>
+  <span> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+    <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  </span>
+  
+  <br>
+  <br>
+  
+  <h4> Front End </h4>
+  <span> 
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </span>
+  
+  <br>
+  <br>
+
+  <h4> Tools & Technologies </h4>
+  <span>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </span>
+
+</div>
+
