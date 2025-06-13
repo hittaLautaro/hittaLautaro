@@ -2,7 +2,9 @@
 
 <h2>  :coffee: About me </h2>
 
-I am a Software Developer, close to reaching my pre-degree. I am pursuing experience with projects involving robust, secure and scalable software with Java & Spring as my main stack. I've developed projects using Spring JPA, Spring Security, JWT, Scheduling, Emails and OAuth.
+I am a Software Developer working toward completing my degree, with experience building backend applications using the Java Spring ecosystem.  
+I’ve worked with Spring Boot, Spring Security, Spring JPA, JWT, OAuth, scheduling, and email services in personal projects.
+
 <!--  -->
 
 <h2 align="left">	:dart: My Skills </h2>
