@@ -4,6 +4,8 @@
 
 I am a Software Developer, close to reaching my pre-degree. I am pursuing experience with projects involving robust, secure and scalable software with Java & Spring as the main focus of my stack. I've developed projects using Spring JPA, Spring Security, JWT, Scheduling, Emails and OAuth.
 
+🔗 [Portfolio](https://lautarohitta.vercel.app/)
+
 <!--  -->
 
 <h2 align="left">	:dart: My Skills </h2>
