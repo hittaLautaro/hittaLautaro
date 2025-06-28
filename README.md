@@ -1,6 +1,4 @@
-# `👋 Hi, I'm Lautaro Hitta`
-### `Full Stack Developer`
-
+### `👋 Hi, I'm Lautaro Hitta`
 ---
 
 - 👨‍💻 [`Portfolio`](https://lautarohitta.xyz)
