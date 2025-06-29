@@ -2,7 +2,6 @@
 ---
 
 - 👨‍💻 [`Portfolio`](https://lautarohitta.xyz)
-- 📫 [`Contact`](mailto:lautarohitta.contacto@gmail.com)
 - 💼 [`LinkedIn`](https://linkedin.com/in/hittaLautaro)
 
 ---
