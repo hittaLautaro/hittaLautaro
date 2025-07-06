@@ -1,5 +1,5 @@
 ### `👋 Hi, I'm Lautaro Hitta`
-## 🇦🇷 Buenos Aires, Argentina 
+#### `🇦🇷 Buenos Aires, Argentina`
 ---
 
 - 👨‍💻 [`Portfolio`](https://lautarohitta.xyz)
