@@ -21,8 +21,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=200&size=14&duration=1000&pause=99999&color=ffffff&start=true&vCenter=true&width=600&lines=PORTFOLIO+%2B+LINKEDIN;)
 <table>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=vercel"/></td>
-    <td><img src="https://skillicons.dev/icons?i=linkedin"/></td>
+    <td><a href="https://lautarohitta.xyz"><img src="https://skillicons.dev/icons?i=vercel"/></a></td>
+    <td><a href="https://www.linkedin.com/in/hittaLautaro"><img src="https://skillicons.dev/icons?i=linkedin"/></a></td>
   </tr>
 </table>
 
