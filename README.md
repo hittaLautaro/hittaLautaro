@@ -8,14 +8,23 @@
     <td><img src="https://skillicons.dev/icons?i=java"/></td>
     <td><img src="https://skillicons.dev/icons?i=spring"/></td>
     <td><img src="https://skillicons.dev/icons?i=postgres"/></td>
-    <td><img src="https://skillicons.dev/icons?i=docker"/></td>
     <td><img src="https://skillicons.dev/icons?i=js"/></td>
     <td><img src="https://skillicons.dev/icons?i=react"/></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind"/></td>
     <td><img src="https://skillicons.dev/icons?i=git"/></td>
     <td><img src="https://skillicons.dev/icons?i=postman"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker"/></td>
   </tr>
 </table>
+
+<details>
+  <summary><b>𝚍𝚎𝚝𝚊𝚒𝚕𝚜</b></summary>
+
+  <br/>
+
+    Java, Spring Boot, PostgreSQL. JavaScript, React, TailwindCSS, Git, Postman, Docker
+
+</details>
 
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=200&size=14&duration=1000&pause=99999&color=ffffff&start=true&vCenter=true&width=600&lines=PORTFOLIO+%2B+LINKEDIN;)
