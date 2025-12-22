@@ -35,4 +35,8 @@
   </tr>
 </table>
 
+---
+
+[![Github Readme Codewars](https://github-readme-codewars.vercel.app/?username=hittaLautaro&theme=dark)](https://github.com/hittaLautaro/github-readme-codewars)
+
 
